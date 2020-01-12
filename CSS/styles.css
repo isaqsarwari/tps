@@ -1,0 +1,142 @@
+body{
+
+	background-color: #46b5d1;
+}
+.container-fluid{
+	background-color: #46b5d1;
+padding: 0.8rem 0 0;
+	color: #fff;
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 250rem;
+
+}
+
+
+.navbar{
+	background-color: #ffc55c;
+	font-size: 1.3rem;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+.tag{
+	font-family: 'Ubuntu', sans-serif;
+	color: yellow;
+	font-size: 1.2rem;
+}
+
+.top-sec{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#carouselExampleControls{
+
+	background-color: #71a95a; 
+}
+
+
+.logo{
+	float: left;
+}
+.main-heading{
+	text-align: center;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.navbar-nav{
+	margin-left: 28%;
+}
+.nav-link{
+	margin:0 2rem;
+}
+
+#about{
+	padding: 1rem;
+	background-color: #46b3e6;
+	color: #fff;
+}
+.vision{
+	    width: 50%;
+    text-align: left;
+    line-height: 2;
+    position: absolute;
+
+}
+.vision-desc{
+	text-align: justify;
+}
+.mission{
+	 width: 50%;
+    margin-left: 52%;
+    text-align: left;
+    line-height: 2;
+    position: relative;
+}
+
+h2{
+	color: #293a80;
+	text-align: center;
+	background-color: #e9ea77;
+}
+
+h3{
+
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+.official-msg{
+    background-color: #515585;
+    color: #fff;
+    padding: 2%;
+}
+.carousel-item{
+	    text-align: center;
+}
+
+.chairman-desc{
+	text-align: center;
+	line-height: 2;
+	width: 70%;
+	margin:auto;
+}
+
+.principal-desc{
+	text-align: center;
+	line-height: 2;
+	width: 70%;
+	margin:auto;
+}
+
+#contact{
+	background-color: #f2eee5; 
+	padding:3%;
+		font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+}
+.fa{
+	margin:10px;
+}
+
+.msg:hover{
+	color: red;
+}
+.fb:hover{
+	color: blue;
+}
+.yt:hover{
+	color: red;
+}
+
+.loc{
+	color: red
+}
+.phn{
+	color: green;
+}
+
+
+
+
+
